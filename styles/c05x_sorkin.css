@@ -1,0 +1,78 @@
+
+html{
+    background-color: yellow;
+}
+body {
+    background-color: white;
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    width: 650px;
+    text-align: justify;
+    border-style: double;
+    border-color: blue;
+    border-width: 10px;
+    padding: 10px;
+    margin: auto;
+    
+}
+img{
+   float: left;
+    padding: 5px;
+    
+}
+main{
+    padding: 5px;
+}
+h1{
+    background-color: white;
+    font-size: 1.5em;
+    color: blue;
+    margin: 5px;
+    text-align: left;
+}
+h2{
+    background-color: white;
+    font-size: 1.25em;
+    margin: 5px 1px;
+    text-align: left;
+}
+h3{
+    background-color: white;
+    font-size: 1.15em;
+    margin: 5px 1px;
+    text-align: left;
+}
+
+ul{
+    list-style: disc;
+    background-color: white
+}
+ul li{
+    margin: auto;
+    text-align: left;
+}
+blockquote{
+    background-color: white;
+    text-align: left;
+}
+cite{
+    background-color: white;
+    color: blue;
+    font-style: normal;
+}
+p.cited{
+    text-align: right;
+    padding-bottom: .75em;
+}
+
+footer{
+    background-color: white;
+    padding: 5px;
+    margin: auto;
+    border-top-style: solid;
+    border-top-color: blue;
+    text-align: center;
+    font-weight: bold;
+    font-size: .9em;
+    
+}
